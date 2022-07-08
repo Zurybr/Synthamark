@@ -1,0 +1,2 @@
+# Synthamark
+a FastAPI project

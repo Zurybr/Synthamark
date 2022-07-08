@@ -1,2 +1,2 @@
 # Synthamark
-a FastAPI project
+a FastAPI project :3
